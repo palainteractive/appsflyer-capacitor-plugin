@@ -2,7 +2,7 @@
   "name": "appsflyer-capacitor-plugin",
   "version": "6.12.1",
   "iosSdkVersion": "6.12.1",
-  "androidSdkVersion": "6.12.1",
+  "androidSdkVersion": "6.12.2",
   "buildNumber": "10",
   "description": "AppsFlyer SDK plugin for Capacitor",
   "main": "dist/plugin.cjs.js",
